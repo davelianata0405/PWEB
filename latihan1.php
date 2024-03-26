@@ -1,4 +1,7 @@
 <html>
+	 <link rel="stylesheet" hreff="mycss.css">
+	 <script src="https://kit.fontawesome.com/e7c5465b8e.js" crossorigin="anonymous"></script>
+	 <script src="https://kit.fontawesome.com/yourcode.js" crossorigin="anonymous"></script>
      <head>
         <title>Form Barang</title>
      </head>
@@ -34,7 +37,7 @@
 		 </td>
 		 <td>
            
-		 <a href="latihan1.2.php" target="_blank"><input type="button" name="Update" value="Update"></a>
+		 <a href="latihan1.2.php" target="_self"><button><i class="fas fa-file-pen" style="font-size:15px; color: blue;"></i>UPDATE</button></a>
            
 	     </td>		
 	</tr>
@@ -47,10 +50,10 @@
 	     <td>2000</td>
 	     <td><img src="bolpoin.jpeg" alt="Bolpoin" style="width:100px;height:100px"></td>
 		 <td>
-		 <a href="latihan1.2.php" target="_blank"><input type="button" name="Update" value="Update"></a>
+		 <a href="latihan1.2.php" target="_self"><button><i class="fas fa-file-pen" style="font-size:15px; color: blue;"></i>UPDATE</button></a>
 	     </td>		
 	</tr>
     </table>
-	<a href="latihan1.3.php" target="_blank"><input type="button" name="Insert" value="Insert"></a>
+	<a href="latihan1.3.php" target="_self"><button><i class="fas fa-file-import" style="font-size:15px; color: green;"></i>INSERT</button></a>
      </body>
 </html>
