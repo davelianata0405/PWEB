@@ -7,7 +7,7 @@
      </head>
 
      <body>
-
+	 <a href="Tugas12.php" target="_self"><button><i class="fas fa-file-import" style="font-size:15px; color: green;"></i>Insert</button></a>
     <table border="3">
 	<tr>
 	    <th rowspan="2">Kode</th>
@@ -33,7 +33,6 @@
 	     <td>3000</td>
 	     <td>5000</td>
 	     <td>
-			<img src="spidol.jpg" alt="Spidol" style="width:100px;height:100px">
 		 </td>
 		 <td>
            
@@ -48,12 +47,10 @@
 	     <td>Biji</td>
 	     <td>1000</td>
 	     <td>2000</td>
-	     <td><img src="bolpoin.jpeg" alt="Bolpoin" style="width:100px;height:100px"></td>
 		 <td>
-		 <a href="latihan1.2.php" target="_self"><button><i class="fas fa-file-pen" style="font-size:15px; color: blue;"></i>UPDATE</button></a>
+		 <a href="Tugas11.php" target="_self"><button><i class="fas fa-file-pen" style="font-size:15px; color: blue;"></i>UPDATE</button></a>
 	     </td>		
 	</tr>
     </table>
-	<a href="latihan1.3.php" target="_self"><button><i class="fas fa-file-import" style="font-size:15px; color: green;"></i>INSERT</button></a>
      </body>
 </html>

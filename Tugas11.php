@@ -16,7 +16,8 @@
         <input type="text" id="Kode" name="Beli"><br><br>
         <label for="Jual">Jual</label><br>
         <input type="text" id="Kode" name="Jual"><br><br>
-        <button><i class="fas fa-file-pen" style="font-size:15px; color: blue;"></i>UPDATE</button>
-        <a href="latihan1.php" target="_self"><button><i class="fas fa-circle-xmark" style="font-size:15px; color: red;"></i>CANCEL</button></a>
+        <button><i class="fas fa-file-pen" style="font-size:15px; color: blue;"></i>Update</button>
+        <a href="latihan1.php" target="_self"><button><i class="fas fa-trash" style="font-size:15px; color: black;"></i>Delete</button></a>
+        <a href="latihan1.php" target="_self"><button><i class="fas fa-circle-xmark" style="font-size:15px; color: red;"></i>Cancel</button></a>
     </body>
 </html>
