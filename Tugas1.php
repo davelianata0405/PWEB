@@ -13,8 +13,7 @@
 	    <th rowspan="2">Kode</th>
         <th rowspan="2">Nama Barang</th>
 	    <th rowspan="2">Satuan</th>
-	    <th colspan="2">Harga</th>
-		<th rowspan="2">Foto</th>	   
+	    <th colspan="2">Harga</th>	   
 	    <th rowspan="2">Action</th>	
 	</tr>
 
@@ -33,12 +32,9 @@
 	     <td>3000</td>
 	     <td>5000</td>
 	     <td>
-		 </td>
-		 <td>
-           
 		 <a href="latihan1.2.php" target="_self"><button><i class="fas fa-file-pen" style="font-size:15px; color: blue;"></i>UPDATE</button></a>
-           
-	     </td>		
+		 </td>
+		 		
 	</tr>
 
     <tr>
